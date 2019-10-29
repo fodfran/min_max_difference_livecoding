@@ -1,0 +1,11 @@
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference.deps.json
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference.runtimeconfig.json
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference.runtimeconfig.dev.json
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference.dll
+/Users/francesca/lc101/csharp-exercises/min_max_difference/bin/Debug/netcoreapp3.0/min_max_difference.pdb
+/Users/francesca/lc101/csharp-exercises/min_max_difference/obj/Debug/netcoreapp3.0/min_max_difference.csprojAssemblyReference.cache
+/Users/francesca/lc101/csharp-exercises/min_max_difference/obj/Debug/netcoreapp3.0/min_max_difference.AssemblyInfoInputs.cache
+/Users/francesca/lc101/csharp-exercises/min_max_difference/obj/Debug/netcoreapp3.0/min_max_difference.AssemblyInfo.cs
+/Users/francesca/lc101/csharp-exercises/min_max_difference/obj/Debug/netcoreapp3.0/min_max_difference.dll
+/Users/francesca/lc101/csharp-exercises/min_max_difference/obj/Debug/netcoreapp3.0/min_max_difference.pdb
